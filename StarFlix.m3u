@@ -1,5 +1,3 @@
-Kolkata
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="Join Our Telegram", t.me/Star_Flix_Official
@@ -135,13 +133,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 #EXTINF:-24 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/M%20TV%20.png"group-title="India", B4U music 
 https://cdn2.pishow.tv/live/141/master.m3u8
 
-
-
-
-
-News.m3u
-
-#EXTM3U
+News
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", Star Flix Official
 https://t.me/Star_Flix_Official
