@@ -59,11 +59,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-19 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Ruposhi%20Bangla%20.png"group-title="Kolkata", Ruposhi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
 
-
-
-
-
-Music.m3u
+Music
 
 #EXTM3U
 
@@ -192,10 +188,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RepublicWo
 #EXTINF:-1 tvg-id="e181c0f8" tvg-name="Kolkata News" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-.TV.png" tvg-chno="4" group-title="𝗡𝗘𝗪𝗦",Kolkata News
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-
-
-
-Bangladesh.m3u
+Bangladesh
 
 #EXTM3U
 
@@ -306,11 +299,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 #EXTINF:-36 tvg-id="tn1z61cp" tvg-name="Bangla TV Europe" tvg-logo="https://i.postimg.cc/LXVzLXy5/Bangla-TV-Europe.png" tvg-chno="31" group-title="Bangladesh",Bangla TV Europe
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=tn1z61cp&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-
-
-
-
-Kids.m3u
+Kids
 
 #EXTM3U
 
@@ -359,11 +348,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-15 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Catron%20Network%20.png"group-title="India", Cartoon Network 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-
-
-
-
-India.m3u
+India
 
 #EXTM3U
 
@@ -450,11 +435,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 #EXTINF:-27 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", HBO Xterme
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-
-
-
-
-Sports.m3u 
+Sports
 
 #EXTM3U
 
@@ -544,10 +525,3 @@ http://172.16.29.242:8080/hls/sss1.m3u8
 
 #EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%204%20.png"group-title="India", Star Sports Select 2
 http://172.16.29.242:8080/hls/sss2.m3u8
-
-
-
-
-
-
-
