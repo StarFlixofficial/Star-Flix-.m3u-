@@ -496,4 +496,5 @@ http://172.16.29.242:8080/hls/sss1.m3u8
 #EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%204%20.png"group-title="India", Star Sports Select 2
 http://172.16.29.242:8080/hls/sss2.m3u8
 
-    
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=toffee_movie 
