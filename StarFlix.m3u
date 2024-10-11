@@ -150,340 +150,329 @@ http://172.16.29.242:8080/hls/jamunatv.m3u8
 #EXTINF:-50 tvg-id="70znfha3" tvg-name="News24 HD" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" tvg-chno="23" group-title="𝗡𝗘𝗪𝗦",News24 HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@news24television90
 
-#EXTINF:-1 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="𝗡𝗘𝗪𝗦",Independent TV
+#EXTINF:-51 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="𝗡𝗘𝗪𝗦",Independent TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@IndependentTelevision
 
-#EXTINF:-1 tvg-id="h1sf6i2t" tvg-name="News18 Bengali" tvg-logo="https://i.postimg.cc/hv1wR1Ds/News18-Bengali.png" tvg-chno="35" group-title="𝗡𝗘𝗪𝗦",News18 Bengali
+#EXTINF:-52 tvg-id="h1sf6i2t" tvg-name="News18 Bengali" tvg-logo="https://i.postimg.cc/hv1wR1Ds/News18-Bengali.png" tvg-chno="35" group-title="𝗡𝗘𝗪𝗦",News18 Bengali
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=h1sf6i2t&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-1 tvg-id="fo98ioc0" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/MG2Yt852/ABP-Ananda.png" tvg-chno="41" group-title="𝗡𝗘𝗪𝗦",ABP Ananda
+#EXTINF:-53 tvg-id="fo98ioc0" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/MG2Yt852/ABP-Ananda.png" tvg-chno="41" group-title="𝗡𝗘𝗪𝗦",ABP Ananda
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=fo98ioc0&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-1 tvg-id="93z1f0zv" tvg-name="U Bangla TV" tvg-logo="https://i.postimg.cc/VkXD2g7b/UBangla-TV.png" tvg-chno="44" group-title="𝗡𝗘𝗪𝗦",U Bangla TV
+#EXTINF:-54 tvg-id="93z1f0zv" tvg-name="U Bangla TV" tvg-logo="https://i.postimg.cc/VkXD2g7b/UBangla-TV.png" tvg-chno="44" group-title="𝗡𝗘𝗪𝗦",U Bangla TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=93z1f0zv&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-1 tvg-id="d60o0c54" tvg-name="Republic Bangla TV" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png" tvg-chno="46" group-title="𝗡𝗘𝗪𝗦",Republic Bangla TV
+#EXTINF:-55 tvg-id="d60o0c54" tvg-name="Republic Bangla TV" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png" tvg-chno="46" group-title="𝗡𝗘𝗪𝗦",Republic Bangla TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RepublicWorld
 
-#EXTINF:-1 tvg-id="e181c0f8" tvg-name="Kolkata News" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-.TV.png" tvg-chno="4" group-title="𝗡𝗘𝗪𝗦",Kolkata News
+#EXTINF:-56 tvg-id="e181c0f8" tvg-name="Kolkata News" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-.TV.png" tvg-chno="4" group-title="𝗡𝗘𝗪𝗦",Kolkata News
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Bangladesh", B TV
+#EXTINF:-57 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Bangladesh", B TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-3 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="Bangladesh",BTV World HD
+#EXTINF:-58 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="Bangladesh",BTV World HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=71ad885a&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-4 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="Bangladesh",BTV Chattogram
+#EXTINF:-59 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="Bangladesh",BTV Chattogram
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-5 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="Bangladesh",Sangsad Television
+#EXTINF:-60 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="Bangladesh",Sangsad Television
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-6 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Maasranga
+#EXTINF:-61 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Maasranga
 https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=BfWX076M3_iSttnwh00waQ&expires=1728493686&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Movie Bangla
+#EXTINF:-62 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", The Tv
+#EXTINF:-63 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", The Tv
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  Ekushey Tv
+#EXTINF:-64 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  Ekushey Tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-10 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Bangladesh",Mohona TV
+#EXTINF:-65 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Bangladesh",Mohona TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Nan Tv
+#EXTINF:-66 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Nan Tv
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-12 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Biswas Tv
+#EXTINF:-67 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Biswas Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-13 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bijoy Tv
+#EXTINF:-68 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bijoy Tv
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-14 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Bangladesh",Deepto TV HD
+#EXTINF:-69 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Bangladesh",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
-#EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Nagorik Tv
+#EXTINF:-70 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Nagorik Tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-16 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Bangladesh",Ananda TV
+#EXTINF:-71 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Bangladesh",Ananda TV
 https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 
-#EXTINF:-17 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  My Tv
+#EXTINF:-72 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  My Tv
 https://mytvbangla.com/0.m3u8
 
-#EXTINF:-18 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="Bangladesh",Channel 9 HD
+#EXTINF:-73 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="Bangladesh",Channel 9 HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-19 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="Bangladesh",Channel I HD
+#EXTINF:-74 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="Bangladesh",Channel I HD
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=SUpCjfcW--Di0Ws99-gz9A&expires=1728494024&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-20 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="Bangladesh",Bangla Vision HD
+#EXTINF:-75 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="Bangladesh",Bangla Vision HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-21 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bangla Tv
+#EXTINF:-76 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bangla Tv
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=xhv98NSI&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-22 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="Bangladesh",NTV
+#EXTINF:-77 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="Bangladesh",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=gpOmQPdZTK7J7gAnAIsfRQ&expires=1728493702&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-23 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="Bangladesh",RTV HD
+#EXTINF:-78 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="Bangladesh",RTV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=adei2579&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-24 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="Bangladesh",Bioshakhi TV
+#EXTINF:-79 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="Bangladesh",Bioshakhi TV
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=shB_6MCSXhrhmU7hixuAoQ&expires=1728493318&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-25 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Desh Tv
+#EXTINF:-80 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Desh Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-26 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Bangladesh",Asian TV
+#EXTINF:-81 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Bangladesh",Asian TV
 https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=WlHx8ZBe2zFUC6V9WOuRgw&expires=1728493130&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-27 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Golobal
+#EXTINF:-82 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Golobal
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 
-#EXTINF:-28 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="Bangladesh",ATN Bangla HD
+#EXTINF:-83 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="Bangladesh",ATN Bangla HD
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=t4AUstN4jlxCxnEjZRXP-g&expires=1728492747&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-29 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Nexus
+#EXTINF:-84 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Nexus
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-30 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Rajdhani
+#EXTINF:-85 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Rajdhani
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-31 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", G Tv
+#EXTINF:-86 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", G Tv
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-32 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Ekhon Tv
+#EXTINF:-87 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Ekhon Tv
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-33 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="Bangladesh",SATV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-34 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Me Tv
+#EXTINF:-88 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Me Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-35 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Kasba Tv
+#EXTINF:-89 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Kasba Tv
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-36 tvg-id="tn1z61cp" tvg-name="Bangla TV Europe" tvg-logo="https://i.postimg.cc/LXVzLXy5/Bangla-TV-Europe.png" tvg-chno="31" group-title="Bangladesh",Bangla TV Europe
+#EXTINF:-90 tvg-id="tn1z61cp" tvg-name="Bangla TV Europe" tvg-logo="https://i.postimg.cc/LXVzLXy5/Bangla-TV-Europe.png" tvg-chno="31" group-title="Bangladesh",Bangla TV Europe
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=tn1z61cp&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
-https://t.me/Star_Flix_Official
-
-#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Duronto%20.png"group-title="Bangladesh", Duronto
+#EXTINF:-91 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Duronto%20.png"group-title="Kids", Duronto
 http://172.16.29.242:8080/hls/duronto.m3u8
 
-#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Massranga%20.png"group-title="Bangladesh", Maasranga
+#EXTINF:-92 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Massranga%20.png"group-title="Kids", Maasranga
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Khushboo%20Bangla%20.png"group-title="Bangladesh", Khushbu
+#EXTINF:-93 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Khushboo%20Bangla%20.png"group-title="Kids", Khushbu
 https://cdn3.pishow.tv/live/283/master.m3u8
 
-#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Nick%20.png"group-title="Kolkata", Nick
+#EXTINF:-94 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Nick%20.png"group-title="Kids", Nick
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-6 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Sony%20Aath%20.png"group-title="Kolkata", Sony Aath
+#EXTINF:-95 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Sony%20Aath%20.png"group-title="Kids", Sony Aath
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Nick%20Jr%20.png"group-title="India", Nick Jr.
+#EXTINF:-96 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Nick%20Jr%20.png"group-title="Kids", Nick Jr.
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Wow%20.png"group-title="India", Wow
+#EXTINF:-97 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Wow%20.png"group-title="Kids", Wow
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Pogo%20.png"group-title="India", Pogo
+#EXTINF:-98 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Pogo%20.png"group-title="Kids", Pogo
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 
-#EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Sony%20Yay%20.png"group-title="India", Sony Yay
+#EXTINF:-99 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Sony%20Yay%20.png"group-title="Kids", Sony Yay
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-11 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Sonic%20.png"group-title="India", Sonic
+#EXTINF:-100 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Sonic%20.png"group-title="Kids", Sonic
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-12 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Hungama%20.png"group-title="India", Hungama
+#EXTINF:-101 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Hungama%20.png"group-title="Kids", Hungama
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-13 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Dishni%20.png"group-title="India", Disney+
+#EXTINF:-102 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Dishni%20.png"group-title="Kids", Disney+
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-14 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Dicecovary%20.png"group-title="India", Discovery
+#EXTINF:-103 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Dicecovary%20.png"group-title="Kids", Discovery
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-15 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Catron%20Network%20.png"group-title="India", Cartoon Network 
+#EXTINF:-104 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Catron%20Network%20.png"group-title="Kids", Cartoon Network 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
-https://t.me/Star_Flix_Official.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Sony Max
+#EXTINF:-105 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Sony Max
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-3 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Sony Max 2
+#EXTINF:-106 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Sony Max 2
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-4 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Zee Cinema
+#EXTINF:-107 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=1087600.m3u8
 
-#EXTINF:-5 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", Zee Action
+#EXTINF:-108 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", Zee Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction.m3u8
 
-#EXTINF:-6 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", All Tme Movie
+#EXTINF:-109 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", All Tme Movie
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Colors Cineplex Superhit
+#EXTINF:-110 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Colors Cineplex Superhit
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", Bflix
+#EXTINF:-111 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", Bflix
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India",  B4u Movie
+#EXTINF:-112 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India",  B4u Movie
 https://cdn2.pishow.tv/live/156/master.m3u8
 
-#EXTINF:-10 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Colors Cineplex
+#EXTINF:-113 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Colors Cineplex
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Star Gold
+#EXTINF:-115 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Star Gold
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-12 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Star Gold 2
+#EXTINF:-116 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Star Gold 2
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-13 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", Star Gold Select
+#EXTINF:-117 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", Star Gold Select
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-14
-tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Star Gold Romance
+#EXTINF:-118 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Star Gold Romance
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 
-#EXTINF:-15
-tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Star Gold Thrills
+#EXTINF:-119 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 
-#EXTINF:-16 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", BBO 
+#EXTINF:-120 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", BBO 
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-17 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India",  Sony Pix 
+#EXTINF:-121 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India",  Sony Pix 
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 
-#EXTINF:-18 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Goldmines
+#EXTINF:-122 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Goldmines
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-19 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Star Movie
+#EXTINF:-123 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Star Movie
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
-#EXTINF:-20 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Star Movie Select
+#EXTINF:-124 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Star Movie Select
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-21 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", & Picture
+#EXTINF:-125 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", & Picture
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=352400.m3u8
 
-#EXTINF:-22 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Star Maa
+#EXTINF:-126 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Star Maa
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-23 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Lotus
+#EXTINF:-127 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Lotus
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-24 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", HBO
+#EXTINF:-128 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
-#EXTINF:-25 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", HBO Max
+#EXTINF:-129 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", HBO Max
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-26 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", HBO Plus
+#EXTINF:-130 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", HBO Plus
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-27 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", HBO Xterme
+#EXTINF:-131 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", HBO Xterme
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official 
-https://t.me/Star_Flix_Official.m3u8
-
-#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/T%20Sports%20.png"group-title="Bangladesh", T Sports
+#EXTINF:-132 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/T%20Sports%20.png"group-title="Bangladesh", T Sports
 http://172.16.29.242:8080/hls/tsportshdL.m3u8
 
-#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Bangladesh/Nagorik%20Tv%20.png"group-title="Bangladesh", Nagorik
+#EXTINF:-133 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Bangladesh/Nagorik%20Tv%20.png"group-title="Bangladesh", Nagorik
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Bangladesh/G%20Tv%20.png"group-title="Bangladesh", Gazi
+#EXTINF:-134 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Bangladesh/G%20Tv%20.png"group-title="Bangladesh", Gazi
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Toffee%20Sports%20.png"group-title="Bangladesh", Toffee Sports
+#EXTINF:-135 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Toffee%20Sports%20.png"group-title="Bangladesh", Toffee Sports
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-6 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/WWE%20Sports%20.png"group-title="India", WWE
+#EXTINF:-136 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/WWE%20Sports%20.png"group-title="India", WWE
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Willow%20Sports%20.png"group-title="India", Willow
+#EXTINF:-137 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Willow%20Sports%20.png"group-title="India", Willow
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sky%20Sports%20.png"group-title="India", Sky Sports
+#EXTINF:-138 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sky%20Sports%20.png"group-title="India", Sky Sports
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Live%20.png"group-title="India",  Sony Live
+#EXTINF:-139 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Live%20.png"group-title="India",  Sony Live
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 
-#EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/A%20Sports%20.png"group-title="India", A Sports
+#EXTINF:-140 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/A%20Sports%20.png"group-title="India", A Sports
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-11 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sports%2018%20.png"group-title="India", Sports 18
+#EXTINF:-141 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sports%2018%20.png"group-title="India", Sports 18
 http://172.16.29.242:8080/hls/sports18.m3u8
 
-#EXTINF:-12 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Ten Sports
+#EXTINF:-142 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Ten Sports
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-13 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/P%20Sports%20.png"group-title="India", P Sports
+#EXTINF:-143 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/P%20Sports%20.png"group-title="India", P Sports
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-14 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%201.png"group-title="India", Star Sports 1
+#EXTINF:-144 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%201.png"group-title="India", Star Sports 1
 http://172.16.29.242:8080/hls/ssports1hd.m3u8
 
-#EXTINF:-15 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%202.png"group-title="India", Star sports 2 
+#EXTINF:-145 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%202.png"group-title="India", Star sports 2 
 http://172.16.29.242:8080/hls/ssports2hd.m3u8
 
-#EXTINF:-16 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%203%20.png"group-title="India", Star Sports 3
+#EXTINF:-146 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%203%20.png"group-title="India", Star Sports 3
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-17 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%204%20.png"group-title="India", Star Sports 4
+#EXTINF:-147 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%204%20.png"group-title="India", Star Sports 4
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 
-#EXTINF:-18 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%201%20.png"group-title="India", Sony Sports 1
+#EXTINF:-148 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%201%20.png"group-title="India", Sony Sports 1
 http://172.16.29.242:8080/hls/sonyten1.m3u8
 
-#EXTINF:-19 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%202%20.png"group-title="India", Sony Sports 2
+#EXTINF:-149 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%202%20.png"group-title="India", Sony Sports 2
 http://172.16.29.242:8080/hls/sonyten2.m3u8
 
-#EXTINF:-20 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%203%20.png"group-title="India", Sony Sports 3
+#EXTINF:-150 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%203%20.png"group-title="India", Sony Sports 3
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-21 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%204%20.png"group-title="India", Sony Sports 4
+#EXTINF:-151 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%204%20.png"group-title="India", Sony Sports 4
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-22 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%205%20.png"group-title="India", Sony Sports 5
+#EXTINF:-152 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%205%20.png"group-title="India", Sony Sports 5
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-23 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%201.png"group-title="India", TNT Sports 1
+#EXTINF:-153 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%201.png"group-title="India", TNT Sports 1
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-24 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%202.png"group-title="India", TNT Sports 2
+#EXTINF:-154 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%202.png"group-title="India", TNT Sports 2
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%203%20.png"group-title="India", TNT Sports 3
+#EXTINF:-155 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%203%20.png"group-title="India", TNT Sports 3
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-26 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%204%20.png"group-title="India", TNT Sports 4
+#EXTINF:-156 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%204%20.png"group-title="India", TNT Sports 4
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-27 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%205%20.png"group-title="India", TNT Sports 5
+#EXTINF:-157 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%205%20.png"group-title="India", TNT Sports 5
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%203%20.png"group-title="India", Star Sports Select 1
+#EXTINF:-158 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%203%20.png"group-title="India", Star Sports Select 1
 http://172.16.29.242:8080/hls/sss1.m3u8
 
-#EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%204%20.png"group-title="India", Star Sports Select 2
+#EXTINF:-159 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%204%20.png"group-title="India", Star Sports Select 2
 http://172.16.29.242:8080/hls/sss2.m3u8
 
