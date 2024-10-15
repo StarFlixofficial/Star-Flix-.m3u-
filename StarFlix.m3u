@@ -126,10 +126,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/M%20TV%20.png"group-title="Music", B4U music 
 https://cdn2.pishow.tv/live/141/master.m3u8
 
-#EXTINF:-0 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="𝗡𝗘𝗪𝗦",Somoy News
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png"group-title="𝗡𝗘𝗪𝗦",Somoy News
 https://app.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="𝗡𝗘𝗪𝗦",ATN News
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png"group-title="𝗡𝗘𝗪𝗦",ATN News
 https://app.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="𝗡𝗘𝗪𝗦",Channel 24
@@ -192,7 +192,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  Ekushey Tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-0 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Bangladesh",Mohona TV
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Bangladesh",Mohona TV
 http://51.159.212.144:8080/live/play/ZUhwVlJWSkNOSEUxUjJnMFZXWm9WMmN2VkhaSWExWnFVV1V5T0hsRlkxaGFjVmswUVU5UFVGWnpWVDA9/245920
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bijoy Tv
