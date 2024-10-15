@@ -193,7 +193,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-0 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Bangladesh",Mohona TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+http://51.159.212.144:8080/live/play/ZUhwVlJWSkNOSEUxUjJnMFZXWm9WMmN2VkhaSWExWnFVV1V5T0hsRlkxaGFjVmswUVU5UFVGWnpWVDA9/245920
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bijoy Tv
 https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
