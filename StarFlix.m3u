@@ -130,13 +130,13 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 https://app.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-44 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="𝗡𝗘𝗪𝗦",ATN News
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=08edaaca&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://app.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8
 
 #EXTINF:-45 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="𝗡𝗘𝗪𝗦",Channel 24
 https://app.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-46 tvg-id="19414441" tvg-name="DBC News 24/7" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" tvg-chno="15" group-title="𝗡𝗘𝗪𝗦",DBC News 24/7
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=keeW5aesypk-4anVVD3Wkw&expires=1729187086&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-47 tvg-id="649941fa" tvg-name="Desh TV Live" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" tvg-chno="16" group-title="𝗡𝗘𝗪𝗦",Desh TV Live
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
@@ -178,10 +178,10 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=71ad885a&e=.m3u8|Referer=https://
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-60 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="Bangladesh",Sangsad Television
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=d_q9ZO65NXy84p9HL1E1TQ&expires=1729186971&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-61 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=BfWX076M3_iSttnwh00waQ&expires=1728493686&user=d477246e9e724f81a011b847457e71c4
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=PO-ng5AGrRMMU_Fh9dsboQ&expires=1729187199&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-62 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
