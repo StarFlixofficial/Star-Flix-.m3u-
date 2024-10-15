@@ -226,10 +226,10 @@ https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=xhv98NSI&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-77 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="Bangladesh",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=gpOmQPdZTK7J7gAnAIsfRQ&expires=1728493702&user=d477246e9e724f81a011b847457e71c4
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=5149cfic
 
 #EXTINF:-78 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="Bangladesh",RTV HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=adei2579&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
 #EXTINF:-79 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="Bangladesh",Bioshakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -244,10 +244,10 @@ https://mtlivestream.com/asian/ytlive/index.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 
 #EXTINF:-83 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="Bangladesh",ATN Bangla HD
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=aeefbca2
+https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-84 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Nexus
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e3058b7d
 
 #EXTINF:-84 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Biswabangla
 https://app.jagobd.com.bd/live-orgin/biswabanglatv.stream/playlist.m3u8
