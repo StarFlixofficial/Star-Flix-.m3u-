@@ -10,7 +10,7 @@ https://stream.imotv.online/toffe/live.php?id=99cf56ce2888&e=.m3u8
 https://stream.imotv.online/toffe/live.php?id=b1ba8efdd99d&e=.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Channels-Logo.png/refs/heads/main/Kolkata/Jolsha%20movies%20SD%20.png"group-title="Kolkata", Jolsha Movies SD
-https://stream.imotv.online/toffe/live.php?id=99cf56ce2888&e=.m3u8
+http://freeflix.run.place/toffee/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.postimg.cc/xjbHcMnd/20240715-093517.png"group-title="Kolkata", Jolsha Movies HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
