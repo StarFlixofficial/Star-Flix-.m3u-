@@ -16,10 +16,10 @@ https://bajimath.com/hp/master.m3u8?id=StarJalshaMovies
 https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=2d0300ee6fb70550dc79281b396e2c6a48eb5fe3-69744aaefd5d452f6d451a4a8001a9eb-1729493014-1729482214
 
 #EXTINF:-0 tvg-logo="https://i.postimg.cc/pr8n4bqj/20240715-092546.png"group-title="Kolkata", Star Jolsha
-http://172.16.29.242:8080/hls/sjolshahd.m3u8
+http://172.16.29.3:8080/hls/sjolshahd.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Zee%20Bangla%20.png"group-title="Kolkata", Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=AOFvLC8OKO4MlKc6CFu1HQ&expires=1729349920&user=d477246e9e724f81a011b847457e71c4
+http://217.20.112.199:8888/zeebangla/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Tara Tv
 https://server.playontv.in/TARAMUSIC/tracks-v1a1/mono.m3u8
@@ -322,13 +322,13 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Sony Max
-https://ekusheyserver.com/etvlivesn.m3u8
+http://172.16.29.3:8080/hls/sonymaxhd.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Sony Max 2
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=1087600.m3u8
+http://172.16.29.3:8080/hls/zeechd.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", Zee Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction.m3u8
@@ -400,7 +400,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/T%20Sports%20.png"group-title="Sports", T Sports
-http://172.16.29.242:8080/hls/tsportshdL.m3u8
+http://172.16.29.3:8080/hls/tsportsfhd.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Bangladesh/Nagorik%20Tv%20.png"group-title="Sports", Nagorik
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
