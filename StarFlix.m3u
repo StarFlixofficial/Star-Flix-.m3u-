@@ -34,7 +34,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Sun%20Bangla%20Cinema%20.png"group-title="Kolkata", Sun Bangla Cinema
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/toffee_movie_160/toffee_movie_160.m3u8?bitrate=512000
+https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_movie%2Fplaylist.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Bangla%20Plus.png"group-title="Kolkata", Bangla Plus 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
