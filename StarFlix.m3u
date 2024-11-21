@@ -10,7 +10,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://live.bongobd.com/hls/4CGNWutyx9xIPh7tMYZ7Ig/1731555911/bongo_movies_88a3_low/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Toffee/Toffee%20Drama%20.png"group-title="Toffee", toffee Drama
-http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282015%29/Besh%20Korechi%20Prem%20Korechi%20%282015%29%20DVDScr/Besh%20Korechi%20Prem%20Korechi%20%282015%29%20Bengali%20Movie%20%20850%20MB%20-%20DvDScr%20Rip%20x264%20-%20AAC%282Ch%29.mkv
+http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-57WKn9tFwbWCO_vclofI08Q/ts
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Channels-Logo.png/refs/heads/main/Kolkata/Jolsha%20movies%20SD%20.png"group-title="Kolkata", Jolsha Movies SD
 http://bapatv.live:8080/jalshamovies/index.m3u8
@@ -299,10 +299,12 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-0 tvg-logo="https://news21bangla.tv/my_content/uploads/2024/02/news21-1.png"group-title="News",News 21 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/live-orgin/news21bd.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd
 
-#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://rajdhani.tv/assets/images/logo-3.png",Rajdhani Tv
+#EXTINF:-0 tvg-logo="https://rajdhani.tv/assets/images/logo-3.png"group-title="Bangladesh",Rajdhani Tv
 https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/1554?cb=20231207072745",Toffee Drama
 http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-57WKn9tFwbWCO_vclofI08Q/ts
+
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/image-removebg-preview.png",The Channel Tv
 http://m1-max.dns-speedy.com/mariusbuzila2/A1CC5C/1440979
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
@@ -443,10 +445,6 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/09/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE_%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3_%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0.jpg",Vokta TV
 https://tv.voktatv.com:8080/hls/stream.m3u8
 
-
-Bangladeshi 🇧🇩 NEWS
-atn news
-http://tv.cloudcdn.me/live.ts?channelId=83&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 
 Somoy
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
