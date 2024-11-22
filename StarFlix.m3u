@@ -24,8 +24,8 @@ http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.m3u8
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Zee%20Bangla%20.png"group-title="Kolkata", Zee Bangla
 https://zee5.drmlive.in/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Tara Tv
-https://server.playontv.in/TARAMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Kolkata", Star jolsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Colors%20Bangla%20.png"group-title="Kolkata", Colors Bangla
 http://172.16.29.242:8080/hls/colorsbhd.m3u8
