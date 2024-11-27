@@ -19,10 +19,10 @@ http://stream247.live:8080/jalshamovies/index.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Zee%20Bangla%20.png"group-title="Kolkata", Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=F1rCbUqfjYgTXye3vWWYKg&expires=1732934081&user=d477246e9e724f81a011b847457e71c4
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Kolkata", Star jolsha HD
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Colors%20Bangla%20.png"group-title="Kolkata", Colors Bangla
 https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_hd/202c9dab-0b95-4c9f-85dd-20f92bf2425b/0.m3u8
