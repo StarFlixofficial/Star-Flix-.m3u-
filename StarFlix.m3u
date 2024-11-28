@@ -260,14 +260,8 @@ http://ktv.im:8080/live/9263672726/9272772822/83839.ts
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT37QeLoNwrMrzrL8NUx_sA4tyZw0hnHoqF5RhwENo_TOP2Z29HYAMAk&s=10"group-title="Bangladesh",Channel S
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
 
-#EXTINF:-0 tvg-logo="https://news21bangla.tv/my_content/uploads/2024/02/news21-1.png"group-title="News",News 21 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/live-orgin/news21bd.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd
-
 #EXTINF:-0 tvg-logo="https://rajdhani.tv/assets/images/logo-3.png"group-title="Bangladesh",Rajdhani Tv
 https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/1554?cb=20231207072745"group-title="Bangladesh",Toffee Drama
-http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-57WKn9tFwbWCO_vclofI08Q/ts
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/image-removebg-preview.png"group-title="Bangladesh",The Channel Tv
 http://m1-max.dns-speedy.com/mariusbuzila2/A1CC5C/1440979
@@ -284,7 +278,7 @@ http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/4687.ts
 http://m1-max.dns-speedy.com/mariusbuzila2/A1CC5C/108812
 http://208.86.19.13:81/514.stream/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaSYkEDvTEcvHrCnhwFcglj03M5dD9mIZlQ&s"group-title="News",Probashinews24 
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaSYkEDvTEcvHrCnhwFcglj03M5dD9mIZlQ&s"group-title="News",Probashi Tv
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s"group-title="Bangladesh",Nandan Tv
@@ -292,12 +286,6 @@ https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png"group-title="Bangladesh",MILLENNIUM TV USA
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://nagoriktv.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.471164d3.jpg&w=1920&q=75"group-title="Bangladesh",Nagorik Tv Talk Show
-http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNmGMVx_q7pm7uc7-VHAbIkfISrgD1osEnA&s"group-title="Bangladesh",Time Tv USA
-https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWfNY-gjlgXTWp-W3mNvTCDV-siyH_8yNGQ&usqp=CAU"group-title="Bangladesh",Deshe Bideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8|Referer=https://dbcanada.sonarbanglatv.com
