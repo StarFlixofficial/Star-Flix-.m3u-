@@ -49,7 +49,7 @@ http://tv.cloudcdn.me/live.ts?channelId=120&uid=13433&deviceMac=00:1A:79:00:97:A
 http://tv.cloudcdn.me/live.ts?channelId=116592&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Colors%20Bangla%20.png"group-title="Kolkata", Colors Bangla
-http://xtv.ooo:8080/live/1788/1788/245895.ts
+http://xtv.ooo:8080/live/1788/1788/245895.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Sony%20Aath%20.png"group-title="Kolkata", Sony Aath
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
